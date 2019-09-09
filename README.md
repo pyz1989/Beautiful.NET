@@ -1,13 +1,10 @@
 # .NET之美：.NET关键技术深入解析 [Beautiful .NET]
-
---------
-
 ![.NET之美：.NET关键技术深入解析](https://github.com/pyz1989/Beautiful.NET/blob/master/Image/beautiful.net.png)
-
 --------
-
 - 购买链接：[Beautiful .NET](http://item.jd.com/11388445.html)
 ## 目录
+
+--------
 
 ### 第一部分 C#语言基础 
 - 第1章 C#类型基础
@@ -15,9 +12,7 @@
 - 第3章 C#中的委托和事件
 - 第4章 对象的筛选和排序
 - 第5章 LINQ
-
 --------
-
 ### 第二部分 .NET框架 
 - 第6章 认识.NET平台
 - 第7章 程序集
