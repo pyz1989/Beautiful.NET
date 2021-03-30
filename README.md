@@ -1,5 +1,5 @@
 # .NET之美：.NET关键技术深入解析 [Beautiful .NET]
-![.NET之美：.NET关键技术深入解析](https://github.com/pyz1989/Beautiful.NET/blob/master/Image/beautiful.net.png)
+![.NET之美：.NET关键技术深入解析](/Image/beautiful.net.png)
 - 购买链接：[Beautiful .NET](http://item.jd.com/11388445.html)
 ## 目录
 ### 第一部分 C#语言基础 
